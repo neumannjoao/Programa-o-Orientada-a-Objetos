@@ -10,3 +10,5 @@ O sistema gera o pix para pagamento da estadia
 O CLIENTE faz o pagamento e recebe a chave do QUARTO
 
 https://online.visual-paradigm.com/w/xsfhpfmb/diagrams/#diagram:proj=0&type=ClassDiagram&width=11&height=8.5&unit=inch
+
+https://online.visual-paradigm.com/w/xsfhpfmb/drive/#proj=0&dashboard
